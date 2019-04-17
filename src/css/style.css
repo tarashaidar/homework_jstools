@@ -1,0 +1,25 @@
+header {
+  background-color: #6b6565;
+  width: 100%;
+  padding: 20px; }
+
+body {
+  display: flex;
+  flex-direction: column; }
+
+button {
+  width: 15%;
+  background: #2e2c2c;
+  color: aliceblue;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none; }
+
+button:hover {
+  opacity: 0.8; }
+
+#app {
+  display: none; }

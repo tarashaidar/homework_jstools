@@ -1,0 +1,14 @@
+header {
+  width: 100%;
+  background: blue;
+  font-size: 16px; }
+
+footer {
+  width: 100%;
+  background: yellow;
+  font-size: 16px; }
+
+body {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rebeccapurple; }

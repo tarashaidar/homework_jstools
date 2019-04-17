@@ -1,0 +1,27 @@
+@import 'assets/header';
+@import 'assets/footer';
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 15%;
+    background: rgb(46, 44, 44);
+    color: aliceblue;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: none;
+  }
+
+  button:hover{
+      opacity: 0.8;
+  }
+
+  #app{
+      display: none;
+  }
+
